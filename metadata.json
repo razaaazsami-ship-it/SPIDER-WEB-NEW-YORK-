@@ -1,0 +1,7 @@
+{
+  "name": "حامي المدينة: مغامرة بطل العنكبوت",
+  "description": "تطبيق تفاعلي مستوحى من عالم بطل العنكبوت ومدينة نيويورك ليلًا مع مهام ونقاط ومستويات ومؤثرات صوتية وحركية ممتعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
